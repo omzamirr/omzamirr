@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring backend developer</h3>
 
 <p align="center">
- 🔭 I’m currently working on <b>Task Queue System with Worker Pool</b><br>
+ 🔭 I’m currently working on <b>Snippetbox</b><br>
  🌱 I’m currently learning <b>Go, AdonisJS, React and AWS</b><br>
  💬 Ask me about <b>Go, Typescript, JavaScript and Python!</b><br>
  📫 How to reach me <b>zamiromarnajib@gmail.com</b>
