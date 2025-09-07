@@ -3,7 +3,7 @@
 
 <p align="center">
  🔭 I’m currently working on <b>Snippetbox</b><br>
- 🌱 I’m currently learning <b>Go, AdonisJS, React and AWS</b><br>
+ 🌱 I’m currently learning <b>Go, React and AWS</b><br>
  💬 Ask me about <b>Go, Typescript, JavaScript and Python!</b><br>
  📫 How to reach me <b>zamiromarnajib@gmail.com</b>
 </p>
